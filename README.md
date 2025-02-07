@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**harkirath1511/harkirath1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Web Developer | Cloud Enthusiast | Database Expert
+I'm a web developer focused on building scalable cloud-native applications. With hands-on experience in AWS and containerization, I create robust solutions that align with modern architectural patterns.
 
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const techStack = {
+    cloudServices: {
+        aws: ["EC2", "S3", "Lambda", "RDS"],
+        containerization: ["Docker", "Docker Compose"],
+    },
+    databases: {
+        sql: ["PostgreSQL", "MySQL"],
+        design: ["Schema Design", "Query Optimization"]
+    },
+    webDev: {
+        frontend: ["React", "JavaScript", "HTML5/CSS3"],
+        backend: ["Node.js", "Express"]
+    }
+};

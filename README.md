@@ -9,7 +9,7 @@
 
 #### 📈 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harkirath1511&show_icons=true&theme=gruvbox)
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=harkirath1511&theme=react-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harkirath1511&theme=react-dark)
 
 
 

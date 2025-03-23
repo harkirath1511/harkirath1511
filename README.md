@@ -8,7 +8,9 @@
 - ☁️ Building **Scalable Cloud-Native Applications**
 
 #### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harkirath1511&show)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harkirath1511&show_icons=true&theme=tokyonight)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=harkirath1511&theme=react-dark)
+
 
 
 #### 📫 Connect with Me:

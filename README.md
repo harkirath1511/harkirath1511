@@ -3,7 +3,7 @@
 #### 🚀 Passionate about Cybersecurity & Building Scalable Cloud-Native Applications
 
 #### 🔥 What I'm up to:
-- 🌱 Learning **MERN Stack** 
+- 🌱 Experimenting **MERN Stack** 
 - 🛡️ Exploring **Cybersecurity & Ethical Hacking**
 - ☁️ Building **Scalable Cloud-Native Applications**
 

@@ -1,3 +1,5 @@
+<img src="assets/profile-header.svg" width="100%" alt="Harkirat Singh — Build systems. Ship value. Learn fast. Animated signals connect a small network of nodes." />
+
 ### Hi there, I'm Harkirat 👋
 
 #### 🚀 Full-Stack Developer focused on building scalable, real-time web systems
@@ -8,6 +10,11 @@ I enjoy working close to the product and shipping features end-to-end.
 ---
 
 ### 🧠 Technical Focus
+
+![Backend](https://img.shields.io/badge/Backend-CDC5FF?style=flat-square&labelColor=1F232C&color=CDC5FF) ![Real-Time](https://img.shields.io/badge/Real--Time-A5E3E8?style=flat-square) ![System Design](https://img.shields.io/badge/System_Design-CDC5FF?style=flat-square) ![Workflow](https://img.shields.io/badge/Workflow-A5E3E8?style=flat-square) ![Frontend](https://img.shields.io/badge/Frontend-CDC5FF?style=flat-square)
+
+<details>
+<summary>Explore my technical focus</summary>
 
 - 🔧 **Backend Engineering**
   - RESTful and event-driven APIs
@@ -34,6 +41,7 @@ I enjoy working close to the product and shipping features end-to-end.
   - State management & performance optimization
   - Responsive and accessible UI systems
 
+</details>
 
 ---
 
@@ -52,10 +60,14 @@ Explore pinned repositories below —
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harkirath1511&show_icons=true&theme=gruvbox)
+<details>
+<summary>📊 GitHub Stats</summary>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harkirath1511&theme=radical)
+<img width="49%" align="top" src="https://github-stats-extended.vercel.app/api?username=harkirath1511&show_icons=true&hide_rank=true&card_width=400&hide_border=true&bg_color=161126&title_color=CDC5FF&text_color=C9D1D9&icon_color=67E8F9&disable_animations=true" alt="GitHub activity: stars, commits, pull requests, issues, and repositories contributed to" />
+
+<img width="49%" align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=harkirath1511&layout=compact&langs_count=8&card_width=400&hide_border=true&bg_color=161126&title_color=CDC5FF&text_color=C9D1D9&icon_color=67E8F9&disable_animations=true" alt="Most used languages across my public repositories" />
+
+</details>
 
 ---
 

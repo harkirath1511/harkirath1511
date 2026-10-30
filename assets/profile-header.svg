@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="160" viewBox="0 0 960 160" role="img" aria-labelledby="title desc">
+<title id="title">Harkirat Singh</title>
+<desc id="desc">A purple terminal-inspired banner with subtle animated signals connecting nodes. Build systems. Ship value. Learn fast.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#161126"/><stop offset="1" stop-color="#241644"/></linearGradient><linearGradient id="line"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#67E8F9"/></linearGradient></defs>
+<style>
+.packet { animation: travel 4s linear 3; transform-box: fill-box; opacity: 0; }
+.p2 { animation-delay: 1.3s; } .p3 { animation-delay: 2.6s; }
+.node { animation: breathe 4s cubic-bezier(0.77,0,0.175,1) 3; }
+@keyframes travel { 0% { transform:translateX(0); opacity:0; } 12%,85% { opacity:.9; } 100% { transform:translateX(94px); opacity:0; } }
+@keyframes breathe { 0%,100% { opacity:.45; } 50% { opacity:1; } }
+@media (prefers-reduced-motion: reduce) { .packet,.node { animation:none; opacity:.55; } }
+</style>
+<rect x="1" y="1" width="958" height="158" rx="16" fill="url(#bg)" stroke="#473563"/>
+<g fill="#B9A7DB"><circle cx="26" cy="24" r="4"/><circle cx="40" cy="24" r="4" opacity=".65"/><circle cx="54" cy="24" r="4" opacity=".35"/></g>
+<text x="77" y="28" fill="#AFA0C8" font-family="monospace" font-size="12">~/harkirath1511</text>
+<text x="30" y="83" fill="#F5F0FF" font-family="Segoe UI,Arial,sans-serif" font-size="36" font-weight="700">Harkirat Singh</text>
+<text x="31" y="117" fill="#C4B5DD" font-family="monospace" font-size="13">Build systems. Ship value. Learn fast.</text>
+<g fill="none" stroke="url(#line)" stroke-width="1.5" opacity=".45"><path d="M640 80H734L767 48H874"/><path d="M734 80L767 112H874"/><path d="M734 80H874"/></g>
+<g fill="#BDA4FF"><circle cx="640" cy="80" r="7"/><circle class="node" cx="734" cy="80" r="6"/><circle cx="874" cy="48" r="5"/><circle cx="874" cy="80" r="5"/><circle cx="874" cy="112" r="5"/></g>
+<g fill="#9CE9F4"><circle class="packet" cx="640" cy="80" r="3"/><circle class="packet p2" cx="640" cy="80" r="3"/><circle class="packet p3" cx="640" cy="80" r="3"/></g>
+<text x="790" y="141" fill="#8875AA" font-family="monospace" font-size="10">&lt;/&gt; connected</text>
+</svg>

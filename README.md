@@ -11,7 +11,7 @@ I enjoy working close to the product and shipping features end-to-end.
 
 ### 🧠 Technical Focus
 
-![Backend](https://img.shields.io/badge/Backend-CDC5FF?style=flat-square&labelColor=1F232C&color=CDC5FF) ![Real-Time](https://img.shields.io/badge/Real--Time-A5E3E8?style=flat-square) ![System Design](https://img.shields.io/badge/System_Design-CDC5FF?style=flat-square) ![Workflow](https://img.shields.io/badge/Workflow-A5E3E8?style=flat-square) ![Frontend](https://img.shields.io/badge/Frontend-CDC5FF?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend-CDC5FF?style=flat-square&labelColor=1F232C&color=CDC5FF) ![Real-Time](https://img.shields.io/badge/Real--Time-A5E3E8?style=flat-square) ![System Design](https://img.shields.io/badge/System_Design-CDC5FF?style=flat-square) ![Workflow](https://img.shields.io/badge/Workflow-A5E3E8?style=flat-square) ![Frontend](https://img.shields.io/badge/Frontend-CDC5FF?style=flat-square) ![AI Engineering](https://img.shields.io/badge/AI_Engineering-A5E3E8?style=flat-square)
 
 <details>
 <summary>Explore my technical focus</summary>
@@ -20,6 +20,11 @@ I enjoy working close to the product and shipping features end-to-end.
   - RESTful and event-driven APIs
   - Authentication & authorization systems
   - Modular backend architecture
+
+- 🤖 **AI Engineering**
+  - LLM integration and AI-powered applications
+  - Tool calling and agent workflows
+  - Structured outputs and response validation
 
 - ⚡ **Real-Time Systems**
   - WebSockets for bi-directionalcommunication

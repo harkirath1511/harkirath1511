@@ -62,9 +62,10 @@ Explore pinned repositories below —
 
 ### 📊 GitHub Stats
 
+<p align="center">
 <img width="49%" align="top" src="https://github-stats-extended.vercel.app/api?username=harkirath1511&show_icons=true&hide_rank=true&card_width=400&hide_border=true&bg_color=161126&title_color=CDC5FF&text_color=C9D1D9&icon_color=67E8F9&disable_animations=true" alt="GitHub activity: stars, commits, pull requests, issues, and repositories contributed to" />
-
 <img width="49%" align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=harkirath1511&layout=compact&langs_count=10&card_width=400&hide_border=true&bg_color=161126&title_color=CDC5FF&text_color=C9D1D9&icon_color=67E8F9&disable_animations=true" alt="Most used languages across my public repositories" />
+</p>
 
 ---
 
